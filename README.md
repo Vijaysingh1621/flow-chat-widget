@@ -24,12 +24,12 @@ npm install flow-chat-widget
 ## Usage
 
 ```javascript
-import FlowChatWidget from '@Vijaysingh1621/flow-chat-widget';
+import ChatWidget from 'flow-chat-widget';
 
 function App() {
   return (
     <div>
-      <FlowChatWidget />
+      <ChatWidget />
     </div>
   );
 }
